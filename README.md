@@ -1,7 +1,7 @@
 # TUGAS INDIVIDU
-> Nama    : Salsabila Fatma Aripa
-> NRP     : 5025211057
-> Kelas   : KB-F
+- Nama    : Salsabila Fatma Aripa
+- NRP     : 5025211057
+- Kelas   : KB-F
 
 ## Tugas Individu 1
 #### Deskripsi Soal
