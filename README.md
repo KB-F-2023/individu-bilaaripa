@@ -1,2 +1,1 @@
-Nama  : Salsabila Fatma Aripa
-NRP   : 5025211057
+Salsabila Fatma Aripa - 5025211057
