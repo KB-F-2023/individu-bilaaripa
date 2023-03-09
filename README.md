@@ -1,9 +1,10 @@
 # TUGAS INDIVIDU
-Nama    : Salsabila Fatma Aripa
-NRP     : 5025211057
-Kelas   : KB-F
+> Nama    : Salsabila Fatma Aripa
+> NRP     : 5025211057
+> Kelas   : KB-F
+
 ## Tugas Individu 1
-##### Deskreipsi Soal
+#### Deskripsi Soal
 Buat implementasi program algoritma informed search A* pada kasus pencarian jarak terpendek dari 2 node/kota. Generate graph node/kota dan edge beserta cost, Tentukan start dan goal dan generate SLD setiap node ke goal, dan selesaikan dengan A*
 
 ## Algoritma A*
@@ -138,12 +139,3 @@ Maka Didapatkan Hasil:
 ```sh
 Jarak terpendek dari A ke F adalah 5
 ```
-
-
-
-
-
-
-
-
-
