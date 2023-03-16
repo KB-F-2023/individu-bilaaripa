@@ -139,3 +139,17 @@ Maka Didapatkan Hasil:
 ```sh
 Jarak terpendek dari A ke F adalah 5
 ```
+
+## Tugas Individu 2
+### Deskripsi Soal
+Buatlah Penyelesaian permasalahan Travelling Salesman Problem (TSP) menggunakan GA
+
+## Travelling Salesman Problem (TSP)
+Travelling salesman problem (TSP) adalah sebuah permasalahan optimisasi kombinatorial yang mencari jalur terpendek atau tercepat yang melalui beberapa titik (kota) yang harus dikunjungi hanya sekali dan kembali ke titik awal.
+![48StatesTSP](https://user-images.githubusercontent.com/114417418/225702957-0ee5a599-6f40-4d9a-bcf2-3ff52ce9320f.png)
+
+## Genetic Algorithm (GA)
+Genetic Algorithm (GA) adalah teknik optimisasi yang terinspirasi oleh evolusi biologis dan digunakan untuk menemukan solusi yang baik untuk masalah optimisasi. GA adalah algoritma yang berdasarkan pada prinsip seleksi alami, pewarisan sifat, mutasi dan crossover untuk menghasilkan solusi yang semakin baik dari generasi ke generasi. Genetic Algorithm (GA) adalah salah satu metode yang sering digunakan untuk menyelesaikan TSP. GA adalah sebuah algoritma pencarian heuristik yang terinspirasi dari proses evolusi alami dalam seleksi alamiah.
+![Screenshot 2023-03-17 003149](https://user-images.githubusercontent.com/114417418/225704412-c8fafa02-c08c-4d66-baaa-2ff995aaeda7.png)
+
+
