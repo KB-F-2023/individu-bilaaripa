@@ -152,4 +152,10 @@ Travelling salesman problem (TSP) adalah sebuah permasalahan optimisasi kombinat
 Genetic Algorithm (GA) adalah teknik optimisasi yang terinspirasi oleh evolusi biologis dan digunakan untuk menemukan solusi yang baik untuk masalah optimisasi. GA adalah algoritma yang berdasarkan pada prinsip seleksi alami, pewarisan sifat, mutasi dan crossover untuk menghasilkan solusi yang semakin baik dari generasi ke generasi. Genetic Algorithm (GA) adalah salah satu metode yang sering digunakan untuk menyelesaikan TSP. GA adalah sebuah algoritma pencarian heuristik yang terinspirasi dari proses evolusi alami dalam seleksi alamiah.
 ![Screenshot 2023-03-17 003149](https://user-images.githubusercontent.com/114417418/225704412-c8fafa02-c08c-4d66-baaa-2ff995aaeda7.png)
 
+### Implementasi Code
+Dapat dilihat selengkapnya pada folder tugas individu 2
+
+### Output
+![Screenshot (2271)](https://user-images.githubusercontent.com/114417418/225705467-27b683a4-8e43-41df-8792-a605a58f9fbe.png)
+
 
