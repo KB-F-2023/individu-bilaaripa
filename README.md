@@ -3,11 +3,11 @@
 - NRP     : 5025211057
 - Kelas   : KB-F
 
-| Tugas  Individu |
-| --- | --- |
-| Tugas Individu 1  | Finding Shortest Path (A*) |
+|                  Tugas  Individu                    |
+| ------------------| --------------------------------|                                           |
+| Tugas Individu 1  | Finding Shortest Path (A*)      |
 | Tugas Individu 2  | Penyelesaian TSP Menggunakan GA |
-| Tugas Individu 3  | Map Coloring (CSP) |
+| Tugas Individu 3  | Map Coloring (CSP)              |
 
 ## Tugas Individu 1
 #### Deskripsi Soal
